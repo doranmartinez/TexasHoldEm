@@ -1,2 +1,2 @@
 # TexasHoldEm
-Data Structures Class Project
+Data Structures Final Project
